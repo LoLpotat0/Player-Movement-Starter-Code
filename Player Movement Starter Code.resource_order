@@ -1,8 +1,8 @@
 {
   "FolderOrderSettings": [
+    {"name":"bomber","order":12,"path":"folders/Sprites/bomber.yy",},
     {"name":"enemy","order":11,"path":"folders/Sprites/enemy.yy",},
     {"name":"player","order":10,"path":"folders/Sprites/player.yy",},
-    {"name":"bomber","order":12,"path":"folders/Sprites/bomber.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_wall","order":2,"path":"sprites/spr_wall/spr_wall.yy",},
@@ -13,9 +13,11 @@
     {"name":"obj_bomber","order":4,"path":"objects/obj_bomber/obj_bomber.yy",},
     {"name":"spr_player_slide","order":4,"path":"sprites/spr_player_slide/spr_player_slide.yy",},
     {"name":"spr_player_fall","order":1,"path":"sprites/spr_player_fall/spr_player_fall.yy",},
+    {"name":"spr_bomb","order":2,"path":"sprites/spr_bomb/spr_bomb.yy",},
     {"name":"spr_tiles","order":3,"path":"sprites/spr_tiles/spr_tiles.yy",},
     {"name":"spr_enemy_run","order":1,"path":"sprites/spr_enemy_run/spr_enemy_run.yy",},
     {"name":"spr_player_jump","order":2,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
+    {"name":"obj_bomb","order":5,"path":"objects/obj_bomb/obj_bomb.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"obj_enemy","order":2,"path":"objects/obj_enemy/obj_enemy.yy",},
     {"name":"ts_tiles","order":4,"path":"tilesets/ts_tiles/ts_tiles.yy",},

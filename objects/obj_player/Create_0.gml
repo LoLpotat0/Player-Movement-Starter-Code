@@ -25,7 +25,7 @@ on_wall = 0;
 going_right = true;
 
 walljumpdelay = 0;
-walljumpdelay_max = 10; //35;
+walljumpdelay_max = 10;
 
 slideresetdelay = 0;
 slideresetdelay_max = 60;
