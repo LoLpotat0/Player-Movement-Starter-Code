@@ -1,3 +1,6 @@
 /// @description Insert description here
 
-instance_destroy();
+
+image_index = 1;
+speed = 0;
+alarm[1] = room_speed * 1;

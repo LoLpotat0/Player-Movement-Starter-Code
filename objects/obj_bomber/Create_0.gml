@@ -3,5 +3,5 @@
 min_range = 75;
 max_range = 400;
 isOn = true;
+firing = false;
 
-alarm[0] = room_speed * 1;
