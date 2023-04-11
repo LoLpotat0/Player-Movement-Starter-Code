@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description initial vars
 
 min_range = 75;
 max_range = 400;

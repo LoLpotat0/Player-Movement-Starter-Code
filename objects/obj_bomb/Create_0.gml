@@ -1,1 +1,2 @@
-/// @description Insert description here
+/// @description initial vars
+destroy = false;
